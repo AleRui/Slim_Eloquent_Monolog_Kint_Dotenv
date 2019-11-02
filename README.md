@@ -16,7 +16,7 @@ DB_USER=user_name
 DB_PASS=pass_name
 DB_CHARSET=utf8
 DB_COLLATION=utf8_unicode_ci
-DB_PREFIX=\#\#\#
+DB_PREFIX=###
 ```
 
 ## Run
